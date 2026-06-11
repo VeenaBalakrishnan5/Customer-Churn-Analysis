@@ -176,8 +176,9 @@ Dashboard Components:
 ---
 
 ## Dashboard Preview
+<img width="1920" height="1080" alt="customer_churn_dashboard" src="https://github.com/user-attachments/assets/d3605283-fcd4-4c41-8ca2-26fedddf650a" />
 
-customer_churn_dashboard.png
+
 
 ---
 
