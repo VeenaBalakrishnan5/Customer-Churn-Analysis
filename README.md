@@ -177,7 +177,7 @@ Dashboard Components:
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+customer_churn_dashboard.png
 
 ---
 
