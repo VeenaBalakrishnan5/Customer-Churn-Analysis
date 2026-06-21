@@ -226,20 +226,4 @@ Investigate dissatisfaction among fiber optic subscribers and implement service 
 
 ---
 
-## Project Workflow
-
-```text
-Dataset
-   ↓
-Data Cleaning (Python)
-   ↓
-Exploratory Data Analysis
-   ↓
-SQL Business Analysis
-   ↓
-Tableau Dashboard
-   ↓
-Business Recommendations
-```
-
 
